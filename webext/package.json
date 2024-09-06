@@ -27,6 +27,6 @@
   },
   "dependencies": {
     "lodash": "^4.17.13",
-    "string-width": "^2.1.1"
+    "string-width": "^4.2.3"
   }
 }
